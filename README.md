@@ -1,5 +1,5 @@
 # Paint
-Draw Lines and Shapes like Triangles , Rectangles , Circles and Polygons with user desired Colours.
+Write Text, Draw Lines and Shapes like Triangles , Rectangles , Circles and Polygons with user desired Colours.
 
 ![image](https://user-images.githubusercontent.com/66171389/129160902-87c84b36-70c4-4bf1-abe0-1f7c473ef418.png)
 
