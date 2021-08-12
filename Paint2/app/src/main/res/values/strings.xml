@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Paint2</string>
+    <string name="Thickness_toast">The thickness can be changed using the bottom slider</string>
+    <string name="Sides_toast">The number of sides for the polygon can be chosen using the top slider</string>
+    <string name="Undo">Undo</string>
+    <string name="Redo">Redo</string>
+    <string name="color">Color</string>
+    <string name="erase">Erase</string>
+    <string name="Choose_color">Choose background color</string>
+    <string name="clear">Clear</string>
+    <string name="Done">Done</string>
+    <string name="Circle">Circle</string>
+    <string name="Square">Square</string>
+    <string name="Line">Line</string>
+    <string name="Polygon">Polygon</string>
+    <string name="Text">Text</string>
+    <string name="Shape">Shape</string>
+    <string name="Pen">Pen</string>
+    <string name="Fill">Fill</string>
+    <string name="Stroke">Stroke</string>
+</resources>
